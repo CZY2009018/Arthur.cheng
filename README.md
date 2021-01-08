@@ -1,5 +1,3 @@
-# Arthur.cheng
-public website
 <!DOCTYPE html>
 <html>
 <head>
@@ -367,20 +365,3 @@ animation:mymove 5s infinite;
   <div style="background-color:coral;"></div>
   <div style="background-color:lightblue;" id="myBlueDiv"></div>
 </div>
-
-            
-            
-             
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-</body>
-</html>
